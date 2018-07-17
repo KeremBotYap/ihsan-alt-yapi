@@ -9,6 +9,6 @@ Kurulum - Windows
 
 # ÖNEMLİ AÇIKLAMA
 
-Bu alt yapıyı İhsan Baki Doğan hazırlamıştır. Yapımında Acar Sıradağ yardım etmiştir. https://discord.gg/mSRUre7 Sunucumuza gelip yardım alabilirsiniz.
+Bu alt yapıyı İhsan Baki Doğan hazırlamıştır. Yapımında Acar Sıradağ yardım etmiştir. https://discord.gg/ja5Q564 Sunucumuza gelip yardım alabilirsiniz.
 
 # Çalıntılık yapmayın yardım isterseniz sizlere yardımcı olabiliriz.
