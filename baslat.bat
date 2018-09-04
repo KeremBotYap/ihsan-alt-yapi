@@ -24,14 +24,14 @@ fs.readdir("./komutlar/", (err, files) => {
 bot.on("ready", async () => {
   console.log(`${bot.user.username} ${bot.guilds.size} sunucuda aktif!`);
 
-  bot.user.setActivity("ihsan apeyi (OYNUYOR)", {type: "WATCHING"});
+  bot.user.setActivity("DISCORD BOT DERSLERİ (İZLİYOR)", {type: "WATCHING"});
 });
 
 bot.on("message", async message => {
   if(message.author.bot) return;
   if(message.channel.type === "dm") return;
 
-  let prefix = "PREFIXINIZ";
+  let prefix = "5080";
   let messageArray = message.content.split(" ");
   let cmd = messageArray[0];
   let args = messageArray.slice(1);
@@ -40,4 +40,4 @@ bot.on("message", async message => {
   if(commandfile) commandfile.run(bot,message,args);
 })
 
-bot.login('MUTHIS TOKENINIZ BURAYA')
+bot.login('NDg0NzM0NjAxNjg4Nzc2NzM0.DnAKMw.jUPIznVUWvXDYCMeoTzK9bNL1o0')
